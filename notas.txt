@@ -1,0 +1,2 @@
+Segunda nota de la diplomatura
+git add notas.txt
